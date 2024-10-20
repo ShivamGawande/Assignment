@@ -77,7 +77,7 @@ mvn spring-boot:run
 ```
 OR use your IDE and run the main class where @SpringBootApplication is present
 
-##Future Enhancements
+###Future Enhancements
 
 - Implement authentication and authorization using Spring Security to secure the API.
 - Add pagination and sorting for the list of students to improve performance.
